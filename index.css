@@ -1,0 +1,8 @@
+body {
+  background-color: beige;
+}
+
+.fit-picture {
+  width: 450px;
+  height: auto;
+}
